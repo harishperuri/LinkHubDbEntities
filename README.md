@@ -1,0 +1,2 @@
+# LinkHubDbEntities
+Small Scale project
